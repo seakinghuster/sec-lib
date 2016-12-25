@@ -91,3 +91,15 @@
 [BugId - SkyLined 写的一个漏洞检测、分析工具](https://github.com/SkyLined/BugId)
 
 [XSS 检测逃逸（Payload 生成器 + 自删除代码）](http://brutelogic.com.br/blog/avoiding-xss-detection/)
+
+[AndroidViewClient － 脚本测试工具 ＋ monkeyrunner扩展 ＋ 纯python语言](https://github.com/dtmilano/AndroidViewClient)
+
+[SSLyze － SSL安全扫描器](http://www.freebuf.com/sectool/22984.html)
+
+[Recon － Android网络中隐私泄漏检测](https://github.com/Eyasics/recon)
+
+[MobSF － Mobile－security－Framework](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
+
+[DECAF － Dynamic Executable code Analysis Framework](https://github.com/sycurelab/DECAF)
+
+[SMVHunter － Android SSL/TLS中间人攻击检测](https://github.com/utds3lab/SMVHunter)

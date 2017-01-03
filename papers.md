@@ -24,10 +24,28 @@ Automatically Detecting SSL Error-Handling Vulnerabilities in Hybrid Mobile Web 
 Danger is My Middle Name: Experimenting with SSL Vulnerabilities in Android Apps     WISEC （2015）</br>
 Using Frankencerts for Automated Adversarial Testing of Certificate Validation in SSL/TLS Implementations     IEEE （2014）</br>
 
-##Android Ads(third) Library Security
+## Android Ads(third) Library Security
+AdSplit: Separating Smartphone Advertising from Applications     USENIX（2012）</br>
+Addroid: Privilege Separation for Applications and Advertisers in Android     2013 </br>
+PmDroid: Permission Supervision for Android Advertising     SRDS（2015）</br>
+Efficient Privilege De-Escalation for Ad Libraries in Mobile Apps     MobiSys（2015）</br>  
+Duet: library integrity verification for android applications     Wisec（2014）</br>
+An Investigation into the Use of Common Libraries in Android Apps     SANER（2016）</br>
+Following Devil's Footprints Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS     SP（2016）</br>
+Reliable Third-Party Library Detection in Android and its Security Applications     CCS（2016）</br>
+Stay in Your Cage! A Sound Sandbox for Third-Party Libraries on Android     ESORICS（2016）</br>
 
-
-
-
-
-
+## Android privacy‘s security
+AndroidLeaks: Automatically Detecting Potential Privacy Leaks in Android Applications on a Large Scale     TRUST（2012）</br>
+FlowDroid: precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for Android apps    PLDI（2014）</br>
+IccTA: Detecting Inter-Component Privacy Leaks in Android Apps     ICSE（2015）
+Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps     CCS（2014）</br>
+FlowDroid: precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for Android apps    PLDI（2014）</br>
+Aurasium: Practical Policy Enforcement for Android Applications     USENIX（2012）</br>
+AppIntent: analyzing sensitive data transmission in android for privacy leakage detection     CCS（2013）</br>
+TaintDroid: an information flow tracking system for real-time privacy monitoring on smartphones     OSDI（2010）</br>
+UIPicker: User-Input Privacy Identification in Mobile Applications     USENIX（2015）</br>
+SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps     USENIX（2015）</br>
+FlowIntent: Detecting Privacy Leakage from User Intention to Network Traffic Mapping     SECON（2016）</br>
+SARRE: Semantics-Aware Rule Recommendation and Enforcement for Event Paths on Android     IEEE（2016）</br>
+     
